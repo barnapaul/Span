@@ -1,0 +1,17 @@
+.about-me {
+    padding-top: 100px;
+}
+.about-me .text-info {
+    font-size: 20px;
+    padding: 40px;
+    line-height: 40px;
+}
+.about-me .text-info span {
+    display: inline-block;
+    width: 170px;
+    height: 40px;
+    border: solid 2px green;
+    font-size: 22px;
+    color: coral;
+     
+}
